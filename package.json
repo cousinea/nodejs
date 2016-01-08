@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-ex",
+  "name": "nodejs",
   "version": "0.0.1",
   "description": "Node.js sample app for OpenShift 3",
   "main": "server.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/openshift/nodejs-ex.git"
+    "url": "http://github.com/dnowell/nodejs.git"
   },
   "author": "Steve Speicher <sspeiche@gmail.com>",
   "license": "",
   "bugs": {
-    "url": "http://github.com/openshift/nodejs-ex/issues"
+    "url": "http://github.com/dnowell/nodejs/issues"
   },
-  "homepage": "http://github.com/openshift/nodejs-ex"
+  "homepage": "http://github.com/dnowell/nodejs"
 }
