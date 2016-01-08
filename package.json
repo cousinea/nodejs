@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/dnowell/nodejs.git"
+    "url": "http://github.com/cousinea/nodejs.git"
   },
   "author": "Steve Speicher <sspeiche@gmail.com>",
   "license": "",
   "bugs": {
-    "url": "http://github.com/dnowell/nodejs/issues"
+    "url": "http://github.com/cousinea/nodejs/issues"
   },
-  "homepage": "http://github.com/dnowell/nodejs"
+  "homepage": "http://github.com/cousinea/nodejs"
 }
